@@ -1,2 +1,5 @@
 processed_data/*
 anonymize.ipynb
+anonymize_ita.ipynb
+.gitignore
+Disparate_impact/__pycache__
