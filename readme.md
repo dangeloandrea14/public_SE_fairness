@@ -24,7 +24,3 @@ on your terminal to create an environment called "fairness" with all the require
 ### literature_review.csv <a name="litrev"></a>
 
 This file contains details on the 49 papers that are part of the Literature Review presented in our work.
-
-### from_dataset_to_graph.ipynb
-
-This notebook includes the necessary code to transform the source dataset into a Networkx-compatible dataset, which is later used to create the graph.
