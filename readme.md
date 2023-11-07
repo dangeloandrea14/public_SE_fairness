@@ -28,15 +28,3 @@ This file contains details on the 49 papers that are part of the Literature Revi
 ### from_dataset_to_graph.ipynb
 
 This notebook includes the necessary code to transform the source dataset into a Networkx-compatible dataset, which is later used to create the graph.
-
-<a name="di"></a>
-
-### Disparate_impact/publications.ipynb
-
-This is the code to compute the metrics for the best performing researchers on the field. The code for plotting the graphs is also included.
-
-<a name="metrics"></a>
-
-### Disparate_impact/metrics.py
-
-Helper class containing the definition of Disparate Impact.
